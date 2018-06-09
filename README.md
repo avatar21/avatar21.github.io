@@ -4,7 +4,7 @@ Technologist whose seeking innovative & creative ways to improve human life qual
 
 ### Projects
 
-- Generic Bean Utilities [here](https://avatar21.github.com/generic-bean-utility/)
+- Generic Bean Utilities [here](https://avatar21.github.com/generic-bean-utils/)
 - Enum-Objectify [here](https://avatar21.github.com/enum-objectify/)
 
 ### Support or Contact
